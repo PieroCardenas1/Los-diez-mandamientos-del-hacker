@@ -27,7 +27,7 @@ falta 	 1
 para 	 1
 evitar 	 1
 tu 	 1
-detección 	 1
+detecciÃ³n 	 1
 y 	 1
 asegurar 	 1
 tu 	 1
@@ -46,9 +46,9 @@ tu 	 1
 nombre 	 1
 o 	 1
 tu 	 1
-teléfono 	 1
+telÃ©fono 	 1
 en 	 1
-ningún 	 1
+ningÃºn 	 1
 sistema. 	 1
 IV 	 1
 -. 	 1
@@ -58,7 +58,7 @@ a 	 1
 quien 	 1
 le 	 1
 pasas 	 1
-información. 	 1
+informaciÃ³n. 	 1
 A 	 1
 ser 	 1
 posible 	 1
@@ -74,7 +74,7 @@ su 	 1
 voz, 	 1
 numero 	 1
 de 	 1
-teléfono 	 1
+telÃ©fono 	 1
 y 	 1
 nombre 	 1
 real. 	 1
@@ -161,10 +161,10 @@ VIII-. 	 1
 No 	 1
 dejes 	 1
 en 	 1
-ningún 	 1
+ningÃºn 	 1
 BBS 	 1
 mucha 	 1
-información 	 1
+informaciÃ³n 	 1
 del 	 1
 sistema 	 1
 que 	 1
@@ -189,7 +189,7 @@ quien 	 1
 pertenece 	 1
 ni 	 1
 el 	 1
-teléfono 	 1
+telÃ©fono 	 1
 o 	 1
 NUA. 	 1
 IX-. 	 1
@@ -228,7 +228,7 @@ leer 	 1
 miles 	 1
 de 	 1
 boletines 	 1
-estúpidos 	 1
+estÃºpidos 	 1
 como 	 1
 este. 	 1
 Pasearte 	 1
@@ -251,7 +251,7 @@ estes 	 1
 realmente 	 1
 hackeando. 	 1
 no 	 1
-sabrías 	 1
+sabrÃ­as 	 1
 lo 	 1
 que 	 1
 es. 	 1
